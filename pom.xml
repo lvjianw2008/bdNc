@@ -89,7 +89,7 @@
 					<!--<fork>true</fork>-->
 				<!--</configuration>-->
 				<configuration>
-					<mainClass>com.bd.basesync.BasesyncApplication</mainClass>
+					<mainClass>com.bd.basesync.BdNcApplication</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>

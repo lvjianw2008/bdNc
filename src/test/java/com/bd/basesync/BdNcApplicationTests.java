@@ -15,7 +15,7 @@ import java.util.Date;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class BasesyncApplicationTests {
+public class BdNcApplicationTests {
 	@Qualifier("dataSource")
 	@Autowired
 	private DataSource dataSource;
